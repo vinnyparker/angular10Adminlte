@@ -18,6 +18,7 @@
               "node_modules/admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
               "node_modules/admin-lte/docs_html/assets/css/adminlte.css"
             ],
+            
             "scripts": [
               "node_modules/admin-lte/plugins/jquery/jquery.js",
               "node_modules/admin-lte/plugins/bootstrap/js/bootstrap.bundle.js",
